@@ -7,15 +7,15 @@
 ## Software and Libraries
 *This project uses Python 3.7.2 and the following libraries:
 
-### NumPy
-### Pandas
-### scikit-learn
-### Matplotlib
-### Seaborn
-### PyTorch
-### Pillow
-### Data
-***The dataset is provided by Udacity and is composed by:
+# NumPy
+# Pandas
+# scikit-learn
+# Matplotlib
+# Seaborn
+# PyTorch
+# Pillow
+# Data
+# The dataset is provided by Udacity and is composed by:
 
 - flowers/test: .jpg images for test
 - flowers/train .jpg images to train the classifier
