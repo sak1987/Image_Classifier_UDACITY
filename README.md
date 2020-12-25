@@ -7,7 +7,7 @@
 
 ##### Software and Libraries
 
-###### This project uses Python 3.7.2 and the following ###libraries:
+###### This project uses Python & the following libraries:
  NumPy
  Pandas
  scikit-learn
