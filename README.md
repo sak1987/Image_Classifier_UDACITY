@@ -1,6 +1,6 @@
 # *AI Programming with Python Project
 
-(https://m.media-amazon.com/images/G/01/DeveloperBlogs/AmazonDeveloperBlogs/legacy/UdacityImage_12._CB520200229_.png)
+![UdacityImage_12 _CB520200229_](https://user-images.githubusercontent.com/33560386/103129495-6eaebb00-46b2-11eb-8e06-43d11a8b2c77.png)
 
 *Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application*
 
