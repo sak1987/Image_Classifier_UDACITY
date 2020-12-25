@@ -1,4 +1,4 @@
-                                 # *AI Programming with Python Project*
+   # *AI Programming with Python Project*
 
 ![UdacityImage_12 _CB520200229_](https://user-images.githubusercontent.com/33560386/103129495-6eaebb00-46b2-11eb-8e06-43d11a8b2c77.png)
 
