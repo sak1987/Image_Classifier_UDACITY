@@ -42,8 +42,8 @@ Convert the classifier into an application that others can use. The application 
 
 
 
-![UdacityImage_12 _CB520200229_](https://user-images.githubusercontent.com/33560386/103129495-6eaebb00-46b2-11eb-8e06-43d11a8b2c77.png)
-![1_Y2v3PrF1rUQRUHwOcXJznA](https://user-images.githubusercontent.com/33560386/103130169-fdbcd280-46b4-11eb-8e0e-9567fc05d2d3.png)
+
+   ![1_Y2v3PrF1rUQRUHwOcXJznA](https://user-images.githubusercontent.com/33560386/103130169-fdbcd280-46b4-11eb-8e0e-9567fc05d2d3.png)
 
 
 
