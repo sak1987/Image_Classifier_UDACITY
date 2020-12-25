@@ -1,13 +1,15 @@
    # *AI Programming with Python Project*
+   
 
 ![UdacityImage_12 _CB520200229_](https://user-images.githubusercontent.com/33560386/103129495-6eaebb00-46b2-11eb-8e06-43d11a8b2c77.png)
 
-*Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application*
 
-#### The goal of this project is to train an image classifier to recognize different species of flowers
+#### *Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application*
+
+### The goal of this project is to train an image classifier to recognize different species of flowers
 
 
-#### Software and Libraries
+### *Software and Libraries*
 
 ##### This project uses Python & the following libraries:
  NumPy
